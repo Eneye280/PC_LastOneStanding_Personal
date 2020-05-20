@@ -15,6 +15,10 @@ public class AutoLoby : MonoBehaviourPunCallbacks
 
     public byte maxPlayerPerRoom = 4;
 
+    private void Start()
+    {
+        Connected();
+    }
     public void Connected()
     {
         if(!PhotonNetwork.IsConnected)

@@ -1,0 +1,9 @@
+.container {
+    border-left-color: rgba(126, 126, 126, 255);
+    border-right-color: rgba(126, 126, 126, 255);
+    border-top-color: rgba(126, 126, 126, 255);
+    border-bottom-color: rgba(126, 126, 126, 255);
+    border-top-width: 0;
+    border-bottom-width: 10px;
+    background-color: rgba(240, 240, 240, 255);
+}

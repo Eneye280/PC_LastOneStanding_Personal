@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement class="container">
+        <Style src="PlayerHealth.uss" />
+        <ui:Label text="Player Health" style="font-size: 69px; -unity-text-align: middle-center; -unity-font: url(&apos;/Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/eurof35.ttf&apos;); white-space: nowrap; -unity-font-style: bold; border-left-width: 0; margin-left: 0; color: rgba(255, 36, 0, 255); flex-grow: 1;" />
+    </ui:VisualElement>
+    <ui:VisualElement class="container" style="background-color: rgba(182, 182, 182, 255);">
+        <Style src="PlayerHealth.uss" />
+        <uie:FloatField label="Health Current" value="0" />
+        <uie:FloatField label="Max Health" value="0" />
+        <uie:ProgressBar title="Helath Bar" high-value="100" style="-unity-font: url(&apos;/Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/Jura-Medium.ttf&apos;); -unity-text-align: upper-center; background-color: rgba(214, 0, 0, 255); -unity-background-image-tint-color: rgba(22, 255, 0, 255); -unity-slice-left: 0; -unity-slice-top: 0; -unity-slice-right: 0; -unity-slice-bottom: 0;" />
+    </ui:VisualElement>
+</ui:UXML>

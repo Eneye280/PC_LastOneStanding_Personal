@@ -1,0 +1,26 @@
+{
+    "UxmlGuid": "49d88ce7c69f360489c3e7b103866aa3",
+    "UxmlPath": "Assets/Last One Standing/Scripts/Uxlm UI/PlayerHealth.uxml",
+    "CanvasX": 0,
+    "CanvasY": 0,
+    "CanvasWidth": 472,
+    "CanvasHeight": 523,
+    "ZoomScale": 0.5,
+    "PanOffset": {
+        "x": 5.667816162109375,
+        "y": 153.15231323242188
+    },
+    "CanvasBackgroundOpacity": 1.0,
+    "CanvasBackgroundMode": 0,
+    "CanvasBackgroundColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 255.0
+    },
+    "CanvasBackgroundImage": {
+        "instanceID": 0
+    },
+    "CanvasBackgroundImageScaleMode": 1,
+    "CanvasBackgroundCameraName": "Camera"
+}
