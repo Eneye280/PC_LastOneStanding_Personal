@@ -16,7 +16,8 @@ MonoBehaviour:
   objectPlayer: {fileID: 0}
   animPlayer: {fileID: 0}
   namePlayer: Player
-  speedPlayer: 1
+  speedPlayerMovement: 1.7
+  speedPlayerRotation: 300
   directionPlayer: {x: 0, y: 0}
   movementPlayer: {x: 0, y: 0, z: 0}
   horizontal: 0

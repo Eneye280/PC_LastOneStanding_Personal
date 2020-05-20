@@ -11,7 +11,12 @@ public class ScriptablePlayer : ScriptableObject
     [Header("Parameter's Player")]
     [Space(10)]
     [SerializeField] internal string namePlayer;
-    [SerializeField] internal float speedPlayer;
+
+    [Range(0,10)]
+    [SerializeField] internal float speedPlayerMovement;
+
+    [Range(0,500)]
+    [SerializeField] internal float speedPlayerRotation;
 
     [SerializeField] internal Vector2 directionPlayer;
     [SerializeField] internal Vector3 movementPlayer;
@@ -19,4 +24,5 @@ public class ScriptablePlayer : ScriptableObject
     [Space(10)]
     [SerializeField] internal float horizontal;
     [SerializeField] internal float vertical;
+
 }

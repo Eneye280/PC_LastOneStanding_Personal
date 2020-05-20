@@ -13,17 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-05-19T20:27:37.338-05:00
-  initializedAtString: 2020-05-19T20:27:37.328-05:00
+  lastUpdatedAtString: 2020-05-19T22:27:05.532-05:00
+  initializedAtString: 2020-05-19T22:18:56.281-05:00
   localBranches:
   - name: develop
     tracking: origin/develop
   - name: master
     tracking: origin/master
+  - name: version1.0
+    tracking: origin/version1.0
   remoteBranches:
   - name: origin/develop
     tracking: '[None]'
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/version1.0
     tracking: '[None]'
   remotes:
   - name: origin
@@ -37,6 +41,7 @@ MonoBehaviour:
     keys:
     - develop
     - master
+    - version1.0
     values:
     - name: develop
       remote:
@@ -48,6 +53,11 @@ MonoBehaviour:
         name: origin
         url: https://github.com/Eneye280/PC_LastOneStanding_Personal.git
       trackingBranch: master
+    - name: version1.0
+      remote:
+        name: origin
+        url: https://github.com/Eneye280/PC_LastOneStanding_Personal.git
+      trackingBranch: version1.0
   remoteConfigBranches:
     keys:
     - origin
@@ -55,6 +65,7 @@ MonoBehaviour:
     - Values:
       - develop
       - HEAD
+      - version1.0
     subKeyValues:
     - Values:
       - name: develop
@@ -63,6 +74,11 @@ MonoBehaviour:
           url: https://github.com/Eneye280/PC_LastOneStanding_Personal.git
         trackingBranch: 
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Eneye280/PC_LastOneStanding_Personal.git
+        trackingBranch: 
+      - name: version1.0
         remote:
           name: origin
           url: https://github.com/Eneye280/PC_LastOneStanding_Personal.git

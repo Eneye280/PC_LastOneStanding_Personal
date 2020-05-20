@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-05-19T20:31:38.580-05:00
-  initializedAtString: 2020-05-19T20:31:38.580-05:00
+  lastUpdatedAtString: 2020-05-19T22:19:35.743-05:00
+  initializedAtString: 2020-05-19T21:50:36.305-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/Eneye280/PC_LastOneStanding_Personal.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: develop
-    tracking: origin/develop
+    name: version1.0
+    tracking: origin/version1.0
   currentConfigBranch:
-    name: develop
+    name: version1.0
     remote:
       name: origin
       url: https://github.com/Eneye280/PC_LastOneStanding_Personal.git
-    trackingBranch: develop
+    trackingBranch: version1.0
   currentConfigRemote:
     name: origin
     url: https://github.com/Eneye280/PC_LastOneStanding_Personal.git

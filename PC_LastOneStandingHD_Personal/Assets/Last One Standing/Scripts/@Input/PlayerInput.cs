@@ -11,6 +11,7 @@ public class PlayerInput : MonoBehaviour
 
     private void Awake()
     {
+        managerPlayer = GetComponent<ManagerPlayer>();
         controls = new InputPlayerActions();
 
         controls.Player.Movement.performed += ctx => managerPlayer.scriptablePlayer.directionPlayer = ctx.ReadValue<Vector2>();

@@ -1,10 +1,15 @@
 ﻿using UnityEngine;
 
 [RequireComponent(typeof(Animator), typeof(Rigidbody))]
+[RequireComponent(typeof(PlayerInput))]
 public class ManagerPlayer : MonoBehaviour
 {
     [SerializeField] internal ScriptablePlayer scriptablePlayer;
 
+    private void Awake()
+    {
+        scriptablePlayer.namePlayer = gameObject.name;
+    }
     private void Update()
     {
         MovementPlayer();
@@ -12,12 +17,19 @@ public class ManagerPlayer : MonoBehaviour
 
     internal void MovementPlayer()
     {
-        scriptablePlayer.horizontal = scriptablePlayer.directionPlayer.x;
-        scriptablePlayer.vertical = scriptablePlayer.directionPlayer.y;
+        if(GameManager.instance.modeGame == ModeGame.gamePlay)
+        {
+            scriptablePlayer.horizontal = scriptablePlayer.directionPlayer.x;
+            scriptablePlayer.vertical = scriptablePlayer.directionPlayer.y;
 
-        scriptablePlayer.movementPlayer = new Vector3();
-        scriptablePlayer.movementPlayer.Set(scriptablePlayer.horizontal,0, scriptablePlayer.vertical);
+            scriptablePlayer.movementPlayer = new Vector3();
+            scriptablePlayer.movementPlayer.Set(/*scriptablePlayer.horizontal*/0, 0, scriptablePlayer.vertical);
 
-        transform.Translate(scriptablePlayer.movementPlayer * scriptablePlayer.speedPlayer * Time.deltaTime);
+            transform.Translate(scriptablePlayer.movementPlayer * scriptablePlayer.speedPlayerMovement * Time.deltaTime);
+
+            //scriptablePlayer.vertical *= Time.deltaTime;
+            transform.Rotate(0, scriptablePlayer.horizontal * scriptablePlayer.speedPlayerRotation * Time.deltaTime, 0);
+
+        }
     }
 }
