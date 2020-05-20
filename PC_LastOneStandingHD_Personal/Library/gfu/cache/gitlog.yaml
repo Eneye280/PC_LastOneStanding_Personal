@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-05-19T20:27:37.798-05:00
+  initializedAtString: 2020-05-19T20:27:37.798-05:00
+  log:
+  - commitID: c834b832b7c4023f248a515138c568f66749355f
+    mergeA: 
+    mergeB: 
+    authorName: Euclides Martinez
+    authorEmail: eneye280@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-05-19T19:43:24.000-05:00
+    commitTimeString: 2020-05-19T19:43:24.000-05:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\eneye\Desktop\PROYECTS\UNITY PROYECT\PC_LastOneStanding_Personal\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\eneye\Desktop\PROYECTS\UNITY PROYECT\PC_LastOneStanding_Personal\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
