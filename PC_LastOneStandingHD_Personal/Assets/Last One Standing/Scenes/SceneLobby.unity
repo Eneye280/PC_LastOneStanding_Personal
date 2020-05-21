@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 0
+  m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -294,17 +294,17 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1662954207}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b78aaa9b06014ae42a23ff07227cbc93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playersCount: 0
+  maxPlayerPerRoom: 4
   connectButton: {fileID: 8563075754152209191}
   JoinRandomButton: {fileID: 8563075753015433406}
   log: {fileID: 8563075753161797521}
   playerCount: {fileID: 8563075752710173415}
-  playersCount: 0
-  maxPlayerPerRoom: 4
 --- !u!4 &1662954209
 Transform:
   m_ObjectHideFlags: 0
@@ -1003,7 +1003,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1662954208}
+      - m_Target: {fileID: 0}
         m_MethodName: JoinRandom
         m_Mode: 1
         m_Arguments:
@@ -1344,7 +1344,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1662954208}
+      - m_Target: {fileID: 0}
         m_MethodName: Connected
         m_Mode: 1
         m_Arguments:

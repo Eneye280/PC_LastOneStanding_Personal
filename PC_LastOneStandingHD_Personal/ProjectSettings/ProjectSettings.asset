@@ -674,10 +674,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 598d259a-9e65-430b-aae5-13005ab69aab
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: PC_LastOneStandingHD_Personal
+  organizationId: eneye-mart
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 1
   disableOldInputManagerSupport: 0
