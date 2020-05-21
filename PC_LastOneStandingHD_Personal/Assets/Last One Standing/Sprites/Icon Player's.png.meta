@@ -1,0 +1,3655 @@
+fileFormatVersion: 2
+guid: 42a4f5ad952b20f448f0e63e15fbee85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4669700116209585785
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_0
+  - first:
+      213: 3794889297577763186
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_1
+  - first:
+      213: -2436274496980944587
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_2
+  - first:
+      213: 8575424839386723626
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_3
+  - first:
+      213: 3460742349062769042
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_4
+  - first:
+      213: -7764322665165606424
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_5
+  - first:
+      213: -350637946304089812
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_6
+  - first:
+      213: -229323131076020884
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_7
+  - first:
+      213: -5683042839300265173
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_8
+  - first:
+      213: 8612213467834044520
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_9
+  - first:
+      213: -7130776791601957063
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_10
+  - first:
+      213: -3098774206509789922
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_11
+  - first:
+      213: -5329175138487926731
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_12
+  - first:
+      213: 5727315919670273025
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_13
+  - first:
+      213: -4410216088761899874
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_14
+  - first:
+      213: 1212582338086189735
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_15
+  - first:
+      213: 1251203656821297490
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_16
+  - first:
+      213: 7530521590152731932
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_17
+  - first:
+      213: -8276573749287068440
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_18
+  - first:
+      213: 7914381920153847916
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_19
+  - first:
+      213: -2006091522359496061
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_20
+  - first:
+      213: 3439640533560734401
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_21
+  - first:
+      213: -4235179952313103611
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_22
+  - first:
+      213: -4644474124331293175
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_23
+  - first:
+      213: -6816480700746291842
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_24
+  - first:
+      213: -2725547347733499801
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_25
+  - first:
+      213: -8370763092409688532
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_26
+  - first:
+      213: 8873836110780918386
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_27
+  - first:
+      213: 6455580531783002942
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_28
+  - first:
+      213: -5934594175491757758
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_29
+  - first:
+      213: 8568384142088573106
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_30
+  - first:
+      213: -706844840680902170
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_31
+  - first:
+      213: 3459853788000511280
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_32
+  - first:
+      213: 621939675170519055
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_33
+  - first:
+      213: -5261893335195163389
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_34
+  - first:
+      213: 147826946109237113
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_35
+  - first:
+      213: 8815559525895858133
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_36
+  - first:
+      213: 3505681371388050331
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_37
+  - first:
+      213: 19541180099044311
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_38
+  - first:
+      213: -8155389750360257324
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_39
+  - first:
+      213: 2282973439259957943
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_40
+  - first:
+      213: 675231895049051344
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_41
+  - first:
+      213: -5159663636779277969
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_42
+  - first:
+      213: -7332347583629939490
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_43
+  - first:
+      213: 6349564900325202127
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_44
+  - first:
+      213: -9168272691468696868
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_45
+  - first:
+      213: -4404379085420166431
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_46
+  - first:
+      213: -5608939341648832570
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_47
+  - first:
+      213: -8109443543108907804
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_48
+  - first:
+      213: 1861538916448024562
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_49
+  - first:
+      213: -8361740555906161010
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_50
+  - first:
+      213: 756015728504102248
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_51
+  - first:
+      213: 8250976049966860217
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_52
+  - first:
+      213: -3742582068194821803
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_53
+  - first:
+      213: 7880550680475313945
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_54
+  - first:
+      213: 5330304130786644160
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_55
+  - first:
+      213: 8297374757079176415
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_56
+  - first:
+      213: -7483565916118019861
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_57
+  - first:
+      213: -1064504206908307284
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_58
+  - first:
+      213: 994058039104517325
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_59
+  - first:
+      213: 2031999355143057743
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_60
+  - first:
+      213: 4943988641065036125
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_61
+  - first:
+      213: 6180157802226530677
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_62
+  - first:
+      213: 6033710130479212081
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_63
+  - first:
+      213: -4128375283124607020
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_64
+  - first:
+      213: 7426592711805291548
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_65
+  - first:
+      213: -3092268301444955767
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_66
+  - first:
+      213: 6161532118030819812
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_67
+  - first:
+      213: -6880544820840813127
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_68
+  - first:
+      213: 2741102948089455507
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_69
+  - first:
+      213: -2730901643646582796
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_70
+  - first:
+      213: 3598071750290597719
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_71
+  - first:
+      213: 5573477601361763170
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_72
+  - first:
+      213: 3349642986574748620
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_73
+  - first:
+      213: 6928584622517220642
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_74
+  - first:
+      213: -3684495759977013305
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_75
+  - first:
+      213: -1486608716693982800
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_76
+  - first:
+      213: 5122245601507210647
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_77
+  - first:
+      213: 405179118073020264
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_78
+  - first:
+      213: -2073365712544428853
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_79
+  - first:
+      213: 7935534861933574489
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_80
+  - first:
+      213: 1572580206718225573
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_81
+  - first:
+      213: -20560737615794736
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_82
+  - first:
+      213: -4274780049309136415
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_83
+  - first:
+      213: 8936798247235139074
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_84
+  - first:
+      213: -1914648673167797461
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_85
+  - first:
+      213: 5107628766549393144
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_86
+  - first:
+      213: -1729731420024241519
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_87
+  - first:
+      213: -908871349098466459
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_88
+  - first:
+      213: -4094774349665125303
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_89
+  - first:
+      213: -768519512480791982
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_90
+  - first:
+      213: 885230318224234363
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_91
+  - first:
+      213: 1474679108101472926
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_92
+  - first:
+      213: 6632301835908184433
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_93
+  - first:
+      213: -3499502398105923992
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_94
+  - first:
+      213: 896204009920832997
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_95
+  - first:
+      213: 976511860747186876
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_96
+  - first:
+      213: -351595890512573329
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_97
+  - first:
+      213: -261233626942634707
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_98
+  - first:
+      213: -1807790093928341630
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_99
+  - first:
+      213: -3695480664033256268
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_100
+  - first:
+      213: -5448387725730707635
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_101
+  - first:
+      213: 2872561831139657069
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_102
+  - first:
+      213: -721113486439744407
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_103
+  - first:
+      213: 4437004130348645492
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_104
+  - first:
+      213: 1280266253903864983
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_105
+  - first:
+      213: -2642594687504108120
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_106
+  - first:
+      213: -5916987675243582762
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_107
+  - first:
+      213: 7729160411811364530
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_108
+  - first:
+      213: -5667242177462898836
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_109
+  - first:
+      213: -304888374857511638
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_110
+  - first:
+      213: 1369269705520653483
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_111
+  - first:
+      213: 6111886577872066087
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_112
+  - first:
+      213: 6928643236441476254
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_113
+  - first:
+      213: -9161540016262843538
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_114
+  - first:
+      213: -7912664997715058238
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_115
+  - first:
+      213: 5310049434460090107
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_116
+  - first:
+      213: -3817456407367729190
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_117
+  - first:
+      213: -4912644722023061470
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_118
+  - first:
+      213: -6767503390482306772
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_119
+  - first:
+      213: 7331717118165774231
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_120
+  - first:
+      213: 2043534492637539639
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_121
+  - first:
+      213: 4325788649337981164
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_122
+  - first:
+      213: 7077693340563103955
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_123
+  - first:
+      213: 2364369035638246375
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_124
+  - first:
+      213: -7279634904951490512
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_125
+  - first:
+      213: 1591921693559854242
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_126
+  - first:
+      213: 811244133014680546
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_127
+  - first:
+      213: 3970343462128609341
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_128
+  - first:
+      213: 8378923984553285922
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_129
+  - first:
+      213: -2726247599217239763
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_130
+  - first:
+      213: 8071116561452053538
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_131
+  - first:
+      213: -3518114926000448867
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_132
+  - first:
+      213: -7186593206581533217
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_133
+  - first:
+      213: -3374490222174566552
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_134
+  - first:
+      213: -24182576184146146
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_135
+  - first:
+      213: -14509240383694305
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_136
+  - first:
+      213: -6448814015675015250
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_137
+  - first:
+      213: -8742393254610395590
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_138
+  - first:
+      213: -2465102122102111361
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_139
+  - first:
+      213: -7551661399350172419
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_140
+  - first:
+      213: -618712444644263660
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_141
+  - first:
+      213: -2727679353326610522
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_142
+  - first:
+      213: -7868640350534027350
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_143
+  - first:
+      213: -6288861091375404226
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_144
+  - first:
+      213: 8193911625534021441
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_145
+  - first:
+      213: -109680287602394696
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_146
+  - first:
+      213: 730667383518143827
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_147
+  - first:
+      213: -7534149542069660622
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_148
+  - first:
+      213: -4787003611307570211
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_149
+  - first:
+      213: -3930209373972604348
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_150
+  - first:
+      213: -2515731179695762893
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_151
+  - first:
+      213: 6669147410773122246
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_152
+  - first:
+      213: -7373761585647580007
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_153
+  - first:
+      213: -4002017361452561371
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_154
+  - first:
+      213: 1461248123719456278
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_155
+  - first:
+      213: -104681922873660261
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_156
+  - first:
+      213: -7878816900032774274
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_157
+  - first:
+      213: -2534769218457324882
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_158
+  - first:
+      213: 8904458659073173255
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_159
+  - first:
+      213: 4344532261718147456
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_160
+  - first:
+      213: -4701314756470506773
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_161
+  - first:
+      213: 5362522391315077003
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_162
+  - first:
+      213: -5517855514432927228
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_163
+  - first:
+      213: 2291596277734278773
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_164
+  - first:
+      213: 5244025476770530647
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_165
+  - first:
+      213: 151487351669596651
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_166
+  - first:
+      213: 1301767564113895049
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_167
+  - first:
+      213: -5881196065741305537
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_168
+  - first:
+      213: -7464516511472519785
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_169
+  - first:
+      213: -5979976443621260852
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_170
+  - first:
+      213: 3862665732159685598
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_171
+  - first:
+      213: 6175709256165678476
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_172
+  - first:
+      213: -2538766100848232866
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_173
+  - first:
+      213: -7487890088437742081
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_174
+  - first:
+      213: -8713875997733078161
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_175
+  - first:
+      213: -2154925563871022774
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_176
+  - first:
+      213: -2168570683964750385
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_177
+  - first:
+      213: -715626310212948046
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_178
+  - first:
+      213: 8347535312902966351
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_179
+  - first:
+      213: -7175901357489289152
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_180
+  - first:
+      213: -6756290047099956778
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_181
+  - first:
+      213: -3968666371749398355
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_182
+  - first:
+      213: -4158194593812803052
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_183
+  - first:
+      213: -4615006109846957208
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_184
+  - first:
+      213: 6569405698157215547
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_185
+  - first:
+      213: -3388693680603475928
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_186
+  - first:
+      213: -7015541901720463642
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_187
+  - first:
+      213: -234719086358780099
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_188
+  - first:
+      213: 6324235955195257480
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_189
+  - first:
+      213: 3166604227630799530
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_190
+  - first:
+      213: 1291009132858207311
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_191
+  - first:
+      213: -1818037574526979265
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_192
+  - first:
+      213: 2263518474158101479
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_193
+  - first:
+      213: -7288927026463207238
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_194
+  - first:
+      213: 4092283221146610341
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_195
+  - first:
+      213: 6584326356914289551
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_196
+  - first:
+      213: 6834267798326628552
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_197
+  - first:
+      213: -8914522041480050937
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_198
+  - first:
+      213: -40219315994392623
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_199
+  - first:
+      213: -7184751325800041049
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_200
+  - first:
+      213: -86112429521315698
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_201
+  - first:
+      213: 4125858696710552550
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_202
+  - first:
+      213: -1617680807546598793
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_203
+  - first:
+      213: 2573702754616224
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_204
+  - first:
+      213: -9123174294270512009
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_205
+  - first:
+      213: -1037152880777016374
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_206
+  - first:
+      213: 8093884964730266850
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_207
+  - first:
+      213: 3166669131352728312
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_208
+  - first:
+      213: -8577316722627454837
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_209
+  - first:
+      213: 8643201147240331089
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_210
+  - first:
+      213: -2519372927020798126
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_211
+  - first:
+      213: 908007668193690888
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_212
+  - first:
+      213: 2052608616233173891
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_213
+  - first:
+      213: -1669270800744889173
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_214
+  - first:
+      213: 400183313637210614
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_215
+  - first:
+      213: -7568742360176882776
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_216
+  - first:
+      213: 4963480418967028686
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_217
+  - first:
+      213: -2764299785403856704
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_218
+  - first:
+      213: 2027363888699764756
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_219
+  - first:
+      213: 46213966645384282
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_220
+  - first:
+      213: 3204409912317493613
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_221
+  - first:
+      213: 5610166204892674559
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_222
+  - first:
+      213: 6593000446413955524
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_223
+  - first:
+      213: -8366017457424812171
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_224
+  - first:
+      213: 9212305722837273766
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_225
+  - first:
+      213: -2188270140533078343
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_226
+  - first:
+      213: 5220229866125682161
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_227
+  - first:
+      213: 6410424125938341715
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_228
+  - first:
+      213: 8527012494646719955
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_229
+  - first:
+      213: 4639120306783748227
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_230
+  - first:
+      213: -7976736960014013142
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_231
+  - first:
+      213: -4686407709128149163
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_232
+  - first:
+      213: -6223231082612023330
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_233
+  - first:
+      213: -200171860773819206
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_234
+  - first:
+      213: -3930571634678021724
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_235
+  - first:
+      213: 4416660253093986779
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_236
+  - first:
+      213: -8387366818766140416
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_237
+  - first:
+      213: -8221894440003827762
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_238
+  - first:
+      213: 8244631908751255055
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_239
+  - first:
+      213: -197054532797340796
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_240
+  - first:
+      213: -9131217678648703759
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_241
+  - first:
+      213: -8106205390071768359
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_242
+  - first:
+      213: -1098580428229215065
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_243
+  - first:
+      213: 1145922867482168503
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_244
+  - first:
+      213: 1685391027606267284
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_245
+  - first:
+      213: -644746975816606875
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_246
+  - first:
+      213: -8125938767847156630
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_247
+  - first:
+      213: -4760532454788274675
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_248
+  - first:
+      213: -6452150792879785342
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_249
+  - first:
+      213: 5776269848861799920
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_250
+  - first:
+      213: 7553590230741529389
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_251
+  - first:
+      213: 636469264692765793
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_252
+  - first:
+      213: 7028092204498967819
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_253
+  - first:
+      213: 917526312829221530
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_254
+  - first:
+      213: 1414700252203375131
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_255
+  - first:
+      213: -6863336879896833957
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_256
+  - first:
+      213: 6598293910475568144
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_257
+  - first:
+      213: -4457543985826065844
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_258
+  - first:
+      213: 8518354754986377816
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_259
+  - first:
+      213: -8348916437724709069
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_260
+  - first:
+      213: -3379905993634265591
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_261
+  - first:
+      213: 9102164686214538628
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_262
+  - first:
+      213: 8951577182540737904
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_263
+  - first:
+      213: 3881313297959674415
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_264
+  - first:
+      213: -6839162806390397011
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_265
+  - first:
+      213: -6405864571804953064
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_266
+  - first:
+      213: -8551711237137411143
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_267
+  - first:
+      213: -498441095392774108
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_268
+  - first:
+      213: 1025425058762074061
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_269
+  - first:
+      213: -7209348179438472089
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_270
+  - first:
+      213: 2838017655758301731
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_271
+  - first:
+      213: 5678988427771846838
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_272
+  - first:
+      213: -5350502939687097417
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_273
+  - first:
+      213: -4212929337680020643
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_274
+  - first:
+      213: -1679258607525978229
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_275
+  - first:
+      213: 5813287371737758909
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_276
+  - first:
+      213: -7289488389840214219
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_277
+  - first:
+      213: 4907979044918232075
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_278
+  - first:
+      213: -943914029527618280
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_279
+  - first:
+      213: 8994030634037519385
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_280
+  - first:
+      213: -2886866655436185039
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_281
+  - first:
+      213: 8060835166877044416
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_282
+  - first:
+      213: -4127401157232946133
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_283
+  - first:
+      213: -3121044293987787827
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_284
+  - first:
+      213: -7519725442595205305
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_285
+  - first:
+      213: 2511454475858473630
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_286
+  - first:
+      213: 81652866209273066
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_287
+  - first:
+      213: 1386021397316808723
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_288
+  - first:
+      213: 6701768371488227164
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_289
+  - first:
+      213: 5308845230170301356
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_290
+  - first:
+      213: 813924178040784464
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_291
+  - first:
+      213: 1833816104164198884
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_292
+  - first:
+      213: 3135254297448582842
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_293
+  - first:
+      213: -7134009611836994556
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_294
+  - first:
+      213: 9075978883833042364
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_295
+  - first:
+      213: 4536639184844038002
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_296
+  - first:
+      213: -1525207240884293698
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_297
+  - first:
+      213: 7834889045935552582
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_298
+  - first:
+      213: 8951201565196477191
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_299
+  - first:
+      213: -5886274611153226123
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_300
+  - first:
+      213: -4891572812426161155
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_301
+  - first:
+      213: 4541275005585193495
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_302
+  - first:
+      213: -815191686002073094
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_303
+  - first:
+      213: 6765482147382801386
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_304
+  - first:
+      213: 1348753141703580110
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_305
+  - first:
+      213: 4613473859247005261
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_306
+  - first:
+      213: 1905412737653877360
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_307
+  - first:
+      213: -616069559817222332
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_308
+  - first:
+      213: 3428880264710476729
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_309
+  - first:
+      213: -3075693576068183822
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_310
+  - first:
+      213: 7464185769921695685
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_311
+  - first:
+      213: -6048105214727071899
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_312
+  - first:
+      213: 8081832831031000525
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_313
+  - first:
+      213: 2582782001380788381
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_314
+  - first:
+      213: 3130191708352584465
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_315
+  - first:
+      213: -1388767576098746628
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_316
+  - first:
+      213: 7556756373351037331
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_317
+  - first:
+      213: 3869838595477252147
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_318
+  - first:
+      213: -6221217887867818533
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_319
+  - first:
+      213: 9086502690700820503
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_320
+  - first:
+      213: -3396884224821731646
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_321
+  - first:
+      213: -1804860630598175353
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_322
+  - first:
+      213: 8790291507333611868
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_323
+  - first:
+      213: -4419955579657632126
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_324
+  - first:
+      213: -8024280544720040590
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_325
+  - first:
+      213: -8551558219686820086
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_326
+  - first:
+      213: 7095353890042970330
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_327
+  - first:
+      213: 6173238542379976408
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_328
+  - first:
+      213: 1943510202805178611
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_329
+  - first:
+      213: 8446759391253841844
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_330
+  - first:
+      213: 4867926605398459645
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_331
+  - first:
+      213: -6892199641611915739
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_332
+  - first:
+      213: -6125777713950805454
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_333
+  - first:
+      213: 6131838683500416482
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_334
+  - first:
+      213: 3954577098270902334
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_335
+  - first:
+      213: 5485425513927349906
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_336
+  - first:
+      213: 3489459709830806026
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_337
+  - first:
+      213: 5249861479807018854
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_338
+  - first:
+      213: 62542937407551723
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_339
+  - first:
+      213: 6027716488179895824
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_340
+  - first:
+      213: 3237358523234771677
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_341
+  - first:
+      213: 6334730499754992564
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_342
+  - first:
+      213: 4007787463250247052
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_343
+  - first:
+      213: -4133595612896595149
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_344
+  - first:
+      213: -2687492613921520996
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_345
+  - first:
+      213: -7763097081498381439
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_346
+  - first:
+      213: -3967796800558370179
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_347
+  - first:
+      213: -8244071905543809302
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_348
+  - first:
+      213: 5603941713633580864
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_349
+  - first:
+      213: -6798197943387557852
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_350
+  - first:
+      213: -4239142341928225023
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_351
+  - first:
+      213: -8584186802291863138
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_352
+  - first:
+      213: -1667197869446944030
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_353
+  - first:
+      213: 4123631407131302634
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_354
+  - first:
+      213: -6925717336207428775
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_355
+  - first:
+      213: -7574089795181964326
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_356
+  - first:
+      213: 2432118262427372735
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_357
+  - first:
+      213: -2922322422584270863
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_358
+  - first:
+      213: 482408348335534360
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_359
+  - first:
+      213: -7279436637550461644
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_360
+  - first:
+      213: 5395940492396303494
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_361
+  - first:
+      213: 203836350527700873
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_362
+  - first:
+      213: -3104130399900602340
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_363
+  - first:
+      213: -8986340937458324097
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_364
+  - first:
+      213: 1124993144946721578
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_365
+  - first:
+      213: 8498229567650658385
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_366
+  - first:
+      213: 8981380678696837774
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_367
+  - first:
+      213: 8946269006324402144
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_368
+  - first:
+      213: 2662730154857212933
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_369
+  - first:
+      213: 8129327151169459669
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_370
+  - first:
+      213: 466734862016395000
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_371
+  - first:
+      213: -8702314014239002129
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_372
+  - first:
+      213: -7893296801373441713
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_373
+  - first:
+      213: 3039385392297627073
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_374
+  - first:
+      213: 6347075741523487372
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_375
+  - first:
+      213: 7530451615260008693
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_376
+  - first:
+      213: -4141537609574833830
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_377
+  - first:
+      213: -5221301407872733862
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_378
+  - first:
+      213: 803693595679010676
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_379
+  - first:
+      213: 5832973741827261859
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_380
+  - first:
+      213: 6280461791332189142
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_381
+  - first:
+      213: -2054381465324511642
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_382
+  - first:
+      213: 7984092857020953930
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_383
+  - first:
+      213: 6524511360391799621
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_384
+  - first:
+      213: -7036914036277315942
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_385
+  - first:
+      213: 6684912196468818863
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_386
+  - first:
+      213: -8053273537033468424
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_387
+  - first:
+      213: 3547105172392474226
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_388
+  - first:
+      213: 1960477902598080847
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_389
+  - first:
+      213: -7666365644090437637
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_390
+  - first:
+      213: -5251852769952477258
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_391
+  - first:
+      213: -5973955911308426920
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_392
+  - first:
+      213: 3074038313292366914
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_393
+  - first:
+      213: 2912958535245867627
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_394
+  - first:
+      213: -2603592525618904478
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_395
+  - first:
+      213: -952705966302814948
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_396
+  - first:
+      213: 1107315883597561799
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_397
+  - first:
+      213: 2289311221049329038
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_398
+  - first:
+      213: 2231902219103565098
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_399
+  - first:
+      213: -6158180583700432924
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_400
+  - first:
+      213: -1645107428948297802
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_401
+  - first:
+      213: 8418365096427346374
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_402
+  - first:
+      213: 6854419187822539457
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_403
+  - first:
+      213: -4799178087652406498
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_404
+  - first:
+      213: -1578805113875806276
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_405
+  - first:
+      213: 4250908162236979406
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_406
+  - first:
+      213: 2151496559120230493
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_407
+  - first:
+      213: 5093694970707615687
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_408
+  - first:
+      213: 297594093446570019
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_409
+  - first:
+      213: -6493364009627238987
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_410
+  - first:
+      213: -4209931695085428422
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_411
+  - first:
+      213: 1567227103258427900
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_412
+  - first:
+      213: -9098705151119031281
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_413
+  - first:
+      213: 4987614950903120311
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_414
+  - first:
+      213: 4064911302795823457
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_415
+  - first:
+      213: 3209489053903646185
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_416
+  - first:
+      213: 2224999763526417071
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_417
+  - first:
+      213: 6367730664397927986
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_418
+  - first:
+      213: -5102337096689257233
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_419
+  - first:
+      213: 1918391775871890387
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_420
+  - first:
+      213: -2965779405712522741
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_421
+  - first:
+      213: 7830672936651795236
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_422
+  - first:
+      213: -3373720785928558843
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_423
+  - first:
+      213: 7778327356173083153
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_424
+  - first:
+      213: -1401667087549245514
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_425
+  - first:
+      213: -7623215346310996857
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_426
+  - first:
+      213: -422875344197433047
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_427
+  - first:
+      213: -4838563418769368136
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_428
+  - first:
+      213: -1368961164731350916
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_429
+  - first:
+      213: -4478513874068283870
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_430
+  - first:
+      213: -1702849272772966605
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_431
+  - first:
+      213: 6567139655147756705
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_432
+  - first:
+      213: -2738569684268166485
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_433
+  - first:
+      213: -8138989308388198628
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_434
+  - first:
+      213: 7823534579431479404
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_435
+  - first:
+      213: 8584030383564436971
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_436
+  - first:
+      213: -3017976052859211873
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_437
+  - first:
+      213: -3405700278298282203
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_438
+  - first:
+      213: -8120669679413646600
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_439
+  - first:
+      213: 7104285983259305946
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_440
+  - first:
+      213: 7751752119793031576
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_441
+  - first:
+      213: -8332044716168227725
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_442
+  - first:
+      213: 8310971395522559507
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_443
+  - first:
+      213: -5440524510399571682
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_444
+  - first:
+      213: -2880572208307579204
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_445
+  - first:
+      213: -2837972180472068047
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_446
+  - first:
+      213: 6344726340541174762
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_447
+  - first:
+      213: 4706683170576722538
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_448
+  - first:
+      213: 107698040638933560
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_449
+  - first:
+      213: -648023498455767965
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_450
+  - first:
+      213: -1852945136990972708
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_451
+  - first:
+      213: 4349480756382961048
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_452
+  - first:
+      213: -2888774368564294708
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_453
+  - first:
+      213: 1598447823171104059
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_454
+  - first:
+      213: -3467267841897671058
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_455
+  - first:
+      213: 8112616884745080053
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_456
+  - first:
+      213: 8300485674904564564
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_457
+  - first:
+      213: -8337521044201941111
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_458
+  - first:
+      213: 84031818596766453
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_459
+  - first:
+      213: -8641761092843187529
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_460
+  - first:
+      213: -603745249931343377
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_461
+  - first:
+      213: -7426647408856550176
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_462
+  - first:
+      213: -2639022310706083114
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_463
+  - first:
+      213: 2151602771085250874
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_464
+  - first:
+      213: 6415800608668423353
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_465
+  - first:
+      213: -9035389988712097612
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_466
+  - first:
+      213: 3834867944268300464
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_467
+  - first:
+      213: 5760077544682401844
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_468
+  - first:
+      213: -388840033579448619
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_469
+  - first:
+      213: 3565376428790225002
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_470
+  - first:
+      213: 1270024708487644849
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_471
+  - first:
+      213: 7996008397329506982
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_472
+  - first:
+      213: -8051617499859526538
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_473
+  - first:
+      213: 8571893875854224064
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_474
+  - first:
+      213: -3548170493844505601
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_475
+  - first:
+      213: -4747220484949920218
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_476
+  - first:
+      213: 7213437985499144964
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_477
+  - first:
+      213: 3191247492899293104
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_478
+  - first:
+      213: 1997973684148912498
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_479
+  - first:
+      213: -4635061864892923576
+    second: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 948
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271ed00c5b72aa430800000000000000
+      internalID: 3794889297577763186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 948
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5397b10c04d903ed0800000000000000
+      internalID: -2436274496980944587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 947
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25f4b5f477020770800000000000000
+      internalID: 8575424839386723626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 947
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2998907a4d6070030800000000000000
+      internalID: 3460742349062769042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 949
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e13a455ca59f3490800000000000000
+      internalID: -7764322665165606424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_6
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 948
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21b5c545a8422bf0800000000000000
+      internalID: -350637946304089812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 948
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65fe69c3d741dcf0800000000000000
+      internalID: -229323131076020884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_8
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 949
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b2e20d5a6c121b0800000000000000
+      internalID: -5683042839300265173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_9
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 948
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8605510058ab48770800000000000000
+      internalID: 8612213467834044520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_10
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 947
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93737fbd9446a0d90800000000000000
+      internalID: -7130776791601957063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_11
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 946
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d47d5f641fef4d0800000000000000
+      internalID: -3098774206509789922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_12
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 945
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530859c5277fa06b0800000000000000
+      internalID: -5329175138487926731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_13
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 947
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104e26cfb738b7f40800000000000000
+      internalID: 5727315919670273025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 815
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251d082c81b2d5110800000000000000
+      internalID: 1251203656821297490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 813
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d9672ec79c18860800000000000000
+      internalID: 7530521590152731932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 812
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecdb64b604b32d80800000000000000
+      internalID: -8276573749287068440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_19
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 813
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c684b879c6885dd60800000000000000
+      internalID: 7914381920153847916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_20
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 814
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382f6de936ee824e0800000000000000
+      internalID: -2006091522359496061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_21
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 813
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c23ced57de0cbf20800000000000000
+      internalID: 3439640533560734401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 814
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b8586b54e9935c0800000000000000
+      internalID: -4235179952313103611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_23
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 813
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066db234638b8fb0800000000000000
+      internalID: -4644474124331293175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_24
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 813
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7526bdfaeef661a0800000000000000
+      internalID: -6816480700746291842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_25
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 814
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76036d7b029ec2ad0800000000000000
+      internalID: -2725547347733499801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_26
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 813
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e58f1515315db80800000000000000
+      internalID: -8370763092409688532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_27
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 813
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a612a5de2362b70800000000000000
+      internalID: 8873836110780918386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_28
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 814
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b6adf5a44d69950800000000000000
+      internalID: 6455580531783002942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1b5e7cc58c036f0800000000000000
+      internalID: -706844840680902170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_32
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 678
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0356f8860bed30030800000000000000
+      internalID: 3459853788000511280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 678
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08b242e6d291a800800000000000000
+      internalID: 621939675170519055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_34
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30562bde3eff9f6b0800000000000000
+      internalID: -5261893335195163389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_35
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 678
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977621303df2d0200800000000000000
+      internalID: 147826946109237113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_36
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 678
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d765559ea8275a70800000000000000
+      internalID: 8815559525895858133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 678
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bf94522aea6a030800000000000000
+      internalID: 3505681371388050331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_38
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3ab4a899c654000800000000000000
+      internalID: 19541180099044311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_39
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 677
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc4aec2b3c32de80800000000000000
+      internalID: -8155389750360257324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_40
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 678
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baddbe4f30ceaf10800000000000000
+      internalID: 2282973439259957943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_41
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 678
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc996db4d7ee5900800000000000000
+      internalID: 675231895049051344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_42
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61654962413568b0800000000000000
+      internalID: -5159663636779277969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_43
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 678
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc2b0c98b44e3a90800000000000000
+      internalID: -7332347583629939490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 545
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20f55ae8080e2c0800000000000000
+      internalID: -4404379085420166431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 543
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7de4ed26b0922b0800000000000000
+      internalID: -5608939341648832570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_48
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 543
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec88ee2018757f80800000000000000
+      internalID: -8109443543108907804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_49
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7337a18c385d910800000000000000
+      internalID: 1861538916448024562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_50
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e866c3d444125fb80800000000000000
+      internalID: -8361740555906161010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_51
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 543
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d581eac48ed7a00800000000000000
+      internalID: 756015728504102248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 543
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7c78c700b518270800000000000000
+      internalID: 8250976049966860217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_53
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5593082207daf0cc0800000000000000
+      internalID: -3742582068194821803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_54
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 543
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917a13847175d5d60800000000000000
+      internalID: 7880550680475313945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_55
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0d554ad5b09f940800000000000000
+      internalID: 5330304130786644160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_56
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 545
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd45ff35162362370800000000000000
+      internalID: 8297374757079176415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_57
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0909ce278052890800000000000000
+      internalID: -7483565916118019861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_58
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 544
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca84255501f1a31f0800000000000000
+      internalID: -1064504206908307284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 410
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d596f3489739c9440800000000000000
+      internalID: 4943988641065036125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_62
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 410
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5793299f6c454c550800000000000000
+      internalID: 6180157802226530677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_63
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 409
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a3ec456b0cb350800000000000000
+      internalID: 6033710130479212081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_64
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 409
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7ead59d8015b6c0800000000000000
+      internalID: -4128375283124607020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_65
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 409
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cc8ae39be801760800000000000000
+      internalID: 7426592711805291548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_66
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 410
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9814c260d5e0615d0800000000000000
+      internalID: -3092268301444955767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 410
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1236fe0d8228550800000000000000
+      internalID: 6161532118030819812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_68
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 409
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd21aca0f46380a0800000000000000
+      internalID: -6880544820840813127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_69
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 410
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e5a9bb9a5a0620800000000000000
+      internalID: 2741102948089455507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_70
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 409
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3aed8c63e91ad0800000000000000
+      internalID: -2730901643646582796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_71
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 410
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7576078813beee130800000000000000
+      internalID: 3598071750290597719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_72
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 410
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b93c05958f85d40800000000000000
+      internalID: 5573477601361763170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_73
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 409
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb9a239c825c7e20800000000000000
+      internalID: 3349642986574748620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_76
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 275
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1b471af318e5be0800000000000000
+      internalID: -1486608716693982800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_77
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 275
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795f42a5c3fd51740800000000000000
+      internalID: 5122245601507210647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_78
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ff52bd24c7f9500800000000000000
+      internalID: 405179118073020264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_79
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc805e9edce933e0800000000000000
+      internalID: -2073365712544428853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_80
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 275
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9597744a9eea02e60800000000000000
+      internalID: 7935534861933574489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_81
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac004abd5de2d510800000000000000
+      internalID: 1572580206718225573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_82
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd271a3e14f6bff0800000000000000
+      internalID: -20560737615794736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_83
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 275
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e98004a13eeca4c0800000000000000
+      internalID: -4274780049309136415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_84
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 278
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206b8cb18a2e50c70800000000000000
+      internalID: 8936798247235139074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_85
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23192e0d2dcd65e0800000000000000
+      internalID: -1914648673167797461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_86
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 276
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe3eb24d41f1e640800000000000000
+      internalID: 5107628766549393144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_87
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 277
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1928f902072cef7e0800000000000000
+      internalID: -1729731420024241519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_88
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563b47ac25a0363f0800000000000000
+      internalID: -908871349098466459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_91
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b775926c848f84c00800000000000000
+      internalID: 885230318224234363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_92
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 141
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92041ce5dc177410800000000000000
+      internalID: 1474679108101472926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_93
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1797a7c516baa0c50800000000000000
+      internalID: 6632301835908184433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_94
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ec44e2c154f6fc0800000000000000
+      internalID: -3499502398105923992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_95
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5ac997cc4ff6c00800000000000000
+      internalID: 896204009920832997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_96
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2bac21d544d8d00800000000000000
+      internalID: 976511860747186876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cc2818661ee1bf0800000000000000
+      internalID: -351595890512573329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_98
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 141
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2582be7669ef5cf0800000000000000
+      internalID: -261233626942634707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_99
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f5ee6dc7079e6e0800000000000000
+      internalID: -1807790093928341630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_100
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc19f16ae307bcc0800000000000000
+      internalID: -3695480664033256268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_101
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d470931fa307364b0800000000000000
+      internalID: -5448387725730707635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_102
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65cc6414c36dd720800000000000000
+      internalID: 2872561831139657069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_103
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cf30eca171ef5f0800000000000000
+      internalID: -721113486439744407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_106
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5bbfdf12e935bd0800000000000000
+      internalID: -2642594687504108120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_107
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daedb41f03a2eda0800000000000000
+      internalID: -5916987675243582762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_108
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be3706917e734b60800000000000000
+      internalID: 7729160411811364530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_109
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f66341449e951b0800000000000000
+      internalID: -5667242177462898836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_110
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc87073a1d4cbf0800000000000000
+      internalID: -304888374857511638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstersAvatarIcons_screenshot_01-1920x1080-3927198f246e7056e1fbb1eb4fdea2df_111
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4234fda8f900310800000000000000
+      internalID: 1369269705520653483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b60c009dfb4964f4c9f171005f7c5d70
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
