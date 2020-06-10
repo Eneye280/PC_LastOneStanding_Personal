@@ -4,7 +4,7 @@
 [RequireComponent(typeof(PlayerInput))]
 public class ManagerPlayer : MonoBehaviour
 {
-    [SerializeField] internal ScriptablePlayer scriptablePlayer;
+    [SerializeField] internal SOPlayer scriptablePlayer;
 
     private void Awake()
     {

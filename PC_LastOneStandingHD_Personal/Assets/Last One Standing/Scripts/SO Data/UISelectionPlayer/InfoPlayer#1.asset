@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b043d9b410f954438bfa1832dca60cb, type: 3}
+  m_Name: InfoPlayer#1
+  m_EditorClassIdentifier: 
+  iconPlayer: {fileID: 3794889297577763186, guid: 42a4f5ad952b20f448f0e63e15fbee85,
+    type: 3}
+  namePlayer: Squeleton
+  descriptionPlayer: 'In biology, the skeletal system or skeleton is the biological
+    system that provides support, support and protection to the soft tissues and
+    muscles in living organisms. The skeletal system has locomotion, support and
+    protection functions. Vertebrates have an internal skeleton or endoskeleton,
+    made up of bones, which are joined together by the joints. The science that deals
+    with studying bones is called osteology. '

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b043d9b410f954438bfa1832dca60cb, type: 3}
+  m_Name: InfoPlayer#4
+  m_EditorClassIdentifier: 
+  iconPlayer: {fileID: 6455580531783002942, guid: 42a4f5ad952b20f448f0e63e15fbee85,
+    type: 3}
+  namePlayer: Orco
+  descriptionPlayer: "Orc is the deformation of a term, derived from Old English,
+    which referred to numerous monsters in Celtic mythology. The existence of these
+    creatures was invented to explain the events of blood and assaults that occurred
+    in the fields and forests. In Spanish the word has evolved as \xABogre\xBB. In
+    Roman mythology the word Orcus (\"Orc\") is synonymous with the underworld and
+    is sometimes also the name of a giant son of the god Pluto. The Castilian word
+    derived from the Latin is Huerco.\r\n"
