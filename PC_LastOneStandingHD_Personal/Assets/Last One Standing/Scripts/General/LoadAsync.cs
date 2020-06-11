@@ -15,8 +15,8 @@ public class LoadAsync : MonoBehaviour
     [SerializeField] internal bool isPanelBackgroundImage;
 
     [Header("Parameter's Progress")]
-    [SerializeField] internal Slider sliderLoadAsyn;
-    [Range(0, 100)] 
+    [SerializeField] internal Image sliderLoadAsyn;
+    [Range(-100, 100)] 
     [SerializeField] internal float howMuchIsTheProgress;
     [SerializeField] internal string nameTextProgress;
     [SerializeField] internal TextMeshProUGUI textInProgress;
@@ -38,12 +38,12 @@ public class LoadAsync : MonoBehaviour
         if (isPanelBackgroundImage)
         {
             panelLoadAsync.SetActive(false);
-            panelLoadAsync.GetComponent<Image>().sprite = backgroundLoadAsyn[Random.Range(0, backgroundLoadAsyn.Length)]; 
+            panelLoadAsync.GetComponent<Image>().sprite = backgroundLoadAsyn[Random.Range(0, backgroundLoadAsyn.Length)];
         }
 
         textPhrasesRandom.text = phrasesRandom[Random.Range(0, phrasesRandom.Length)];
 
-        if(GameManager.instance.sOGameManager.isSceneSelectionPlayer)
+        if (GameManager.instance.sOGameManager.isSceneSelectionPlayer)
         {
             nameSceneForLoad = "SceneSelecctionCharacter";
             if (isLoadStart)
@@ -52,7 +52,7 @@ public class LoadAsync : MonoBehaviour
             GameManager.instance.sOGameManager.isSceneSelectionPlayer = false;
             GameManager.instance.modeGame = ModeGame.selectionPlayer;
         }
-        else if(!GameManager.instance.sOGameManager.isSceneSelectionPlayer)
+        else if (!GameManager.instance.sOGameManager.isSceneSelectionPlayer)
         {
             nameSceneForLoad = "SceneLobby";
             if (isLoadStart)
@@ -60,12 +60,12 @@ public class LoadAsync : MonoBehaviour
 
             GameManager.instance.modeGame = ModeGame.lobby;
         }
-    }
 
+
+    }
     public void LoadButton(string scene)
     {
         StartCoroutine(LoadScene(scene));
-        //PhotonServerLobby.instance.Connected();
     }
 
     private IEnumerator LoadScene(string scene)
@@ -81,10 +81,9 @@ public class LoadAsync : MonoBehaviour
             if(isPanelBackgroundImage)
                 panelLoadAsync.SetActive(true);
   
-            textInProgress.text = nameTextProgress + (asyncOperation.progress * howMuchIsTheProgress) + "%";
-            sliderLoadAsyn.value = asyncOperation.progress;
+            textInProgress.text = asyncOperation.progress * (int)howMuchIsTheProgress + "%" ;
+            sliderLoadAsyn.fillAmount = asyncOperation.progress;
             asyncOperation.allowSceneActivation = true;
-
             yield return null;
         }
     }
