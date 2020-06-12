@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Last One Standing/Scenes/SceneLobby.unity
-    guid: b4466d9086e86764494ded7d26f3624d
+    path: Assets/Last One Standing/Scenes/SceneSelectionPlayer.unity
+    guid: 6525e1e8a974818469365d6338e32976
   - enabled: 1
-    path: Assets/Last One Standing/Scenes/SceneGame.unity
+    path: Assets/Last One Standing/Scenes/SceneLobby.unity
+    guid: b954a6a06a795f54b82426ea65894815
+  - enabled: 1
+    path: Assets/Last One Standing/Scenes/SceneGameAlone.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Last One Standing/Scenes/SceneUIGame.unity
+    guid: eaa16974a4038db4d8017dfc17548302
   m_configObjects: {}
