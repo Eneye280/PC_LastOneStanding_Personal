@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: GameManager
   m_EditorClassIdentifier: 
   isSceneSelectionPlayer: 0
-  indexPlayer: 1
-  player:
-  - {fileID: 3772116142533466241, guid: f07af5af8be78824981e9d872153ac8b, type: 3}
+  indexPlayer: 0
+  playerContent:
+  - {fileID: 2852237806007541259, guid: f0e60e99be76ec24c96a6a12b01b928e, type: 3}
   - {fileID: 3772116142533466241, guid: 2690f3868c8957e479c601ae95e2304d, type: 3}
   - {fileID: 3772116142533466241, guid: 2a4713204109a024f89bd4d87dc35f38, type: 3}
   - {fileID: 3772116142533466241, guid: bef8a3356379da74289f4f8ba60b1771, type: 3}
-  playerInstance: {fileID: 3772116142533466241, guid: 2690f3868c8957e479c601ae95e2304d,
+  playerInstance: {fileID: 2852237806007541259, guid: f0e60e99be76ec24c96a6a12b01b928e,
     type: 3}

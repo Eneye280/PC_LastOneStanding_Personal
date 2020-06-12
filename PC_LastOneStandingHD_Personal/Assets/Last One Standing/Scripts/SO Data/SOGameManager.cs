@@ -7,6 +7,6 @@ public class SOGameManager : ScriptableObject
     [SerializeField] internal int indexPlayer;
 
     [Space(10)]
-    [SerializeField] internal GameObject[] player;
+    [SerializeField] internal GameObject[] playerContent;
     [SerializeField] internal GameObject playerInstance;
 }

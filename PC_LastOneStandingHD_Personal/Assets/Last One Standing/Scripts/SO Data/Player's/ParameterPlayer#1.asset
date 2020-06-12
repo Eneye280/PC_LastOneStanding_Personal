@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74713b94ca6a0114884f8a7bc0bbefbd, type: 3}
+  m_Name: ParameterPlayer#1
+  m_EditorClassIdentifier: 
+  spritePlayer: {fileID: 0}
+  objectPlayer: {fileID: 0}
+  namePlayer: '#0 Player Arachnid'
+  habilityOne: {fileID: -6163653743320474377, guid: fc0bfeaf7db5d2a4babeb84ffced5e50,
+    type: 3}
+  habilityTwo: {fileID: 8978801265769977387, guid: fc0bfeaf7db5d2a4babeb84ffced5e50,
+    type: 3}
+  speedPlayerMovement: 1.7
+  speedPlayerRotation: 300
+  directionPlayer: {x: 0, y: 0}
+  movementPlayer: {x: 0, y: 0, z: 0}
+  horizontal: 0
+  vertical: 0

@@ -13,7 +13,6 @@ public class ManagerSceneSelectionPlayer : MonoBehaviour
     [SerializeField] internal Image iconPlayer;
     [SerializeField] internal TextMeshProUGUI namePlayer;
     [SerializeField] internal TextMeshProUGUI descriptionPlayer;
-    [SerializeField] internal TextMeshProUGUI infoButtonTriggerEnter;
 
     private void Awake()
     {
@@ -21,6 +20,7 @@ public class ManagerSceneSelectionPlayer : MonoBehaviour
         textStart.text = "Selection Player";
     }
 
+    //Button Left Selection Player
     public void EnablePlayer(int index)
     {
         GameManager.instance.sOGameManager.indexPlayer = index;
@@ -35,18 +35,18 @@ public class ManagerSceneSelectionPlayer : MonoBehaviour
             iconPlayer.sprite = sOInfoPlayer[index].iconPlayer;
             namePlayer.text = sOInfoPlayer[index].namePlayer;
             descriptionPlayer.text = sOInfoPlayer[index].descriptionPlayer;
-
-            //infoButtonTriggerEnter.text = "Name: " + sOInfoPlayer[i].namePlayer + "Hability: " + sOInfoPlayer[i].habilityPlayer;
         }
+        GameManager.instance.sOGameManager.playerInstance = GameManager.instance.sOGameManager.playerContent[index];
     }
 
+    //Button Start Game
     public void StartGame(int index)
     {
-        index = GameManager.instance.sOGameManager.indexPlayer;
-        GameManager.instance.playerAdd = players[index];
-        GameManager.instance.sOGameManager.playerInstance = GameManager.instance.sOGameManager.player[index];
         GameManager.instance.modeGame = ModeGame.lobby;
         SceneManager.LoadScene("SceneLobby");
+
+        GameManager.instance.InstancePlayer();
+        GameManager.instance.sOGameManager.isSceneSelectionPlayer = false;
         
     }
    

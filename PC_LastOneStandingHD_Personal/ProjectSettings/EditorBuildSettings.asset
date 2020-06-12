@@ -6,10 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Last One Standing/Scenes/SceneLoadAsyn.unity
-    guid: abe807d15eb99dc40b7bfd20b5b9aa61
-  - enabled: 1
-    path: Assets/Last One Standing/Scenes/SceneSelecctionCharacter.unity
+    path: Assets/Last One Standing/Scenes/SceneSelectionPlayer.unity
     guid: 6525e1e8a974818469365d6338e32976
   - enabled: 1
     path: Assets/Last One Standing/Scenes/SceneLobby.unity

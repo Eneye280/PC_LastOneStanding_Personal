@@ -22,27 +22,35 @@ public class GameManager : MonoBehaviour
     private void Awake()
     {
         if (!instance)
+        {
             instance = FindObjectOfType<GameManager>();
+        }
         else
             Destroy(gameObject);
 
         DontDestroyOnLoad(gameObject);
 
-        if(modeGame == ModeGame.gamePlay)
+        if (modeGame == ModeGame.gamePlay)
             SceneManager.LoadSceneAsync("SceneUIGame", LoadSceneMode.Additive);
-    }
-    private void Update()
-    {
-        InstancePlayer();
+
+        playerAdd = sOGameManager.playerInstance;
+
+        if (sOGameManager.isSceneSelectionPlayer)
+        {
+            SceneManager.LoadScene("SceneSelectionPlayer");
+            modeGame = ModeGame.selectionPlayer;
+        }
+        if (!sOGameManager.isSceneSelectionPlayer)
+        {
+            SceneManager.LoadScene("SceneLobby");
+            modeGame = ModeGame.lobby;
+            InstancePlayer();
+        }
     }
 
-    private void InstancePlayer()
+    internal void InstancePlayer()
     {
-        if(modeGame == ModeGame.lobby && !instancePlayer_GM)
-        {
-            instancePlayer_GM = Instantiate(sOGameManager.playerInstance);
-            instancePlayer_GM.transform.parent = transform;
-            playerAdd = transform.GetChild(0).gameObject;
-        }
+        instancePlayer_GM = Instantiate(sOGameManager.playerInstance);
+        instancePlayer_GM.transform.parent = transform;
     }
 }

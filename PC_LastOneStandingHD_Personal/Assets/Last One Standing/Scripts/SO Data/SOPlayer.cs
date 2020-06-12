@@ -6,11 +6,12 @@ public class SOPlayer : ScriptableObject
 {
     [SerializeField] internal Sprite spritePlayer;
     [SerializeField] internal GameObject objectPlayer;
-    [SerializeField] internal Animator animPlayer;
 
     [Header("Parameter's Player")]
     [Space(10)]
     [SerializeField] internal string namePlayer;
+    [SerializeField] internal Sprite habilityOne;
+    [SerializeField] internal Sprite habilityTwo;
 
     [Range(0,10)]
     [SerializeField] internal float speedPlayerMovement;
