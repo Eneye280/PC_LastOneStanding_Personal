@@ -14,6 +14,11 @@ public class ManagerSceneSelectionPlayer : MonoBehaviour
     [SerializeField] internal TextMeshProUGUI namePlayer;
     [SerializeField] internal TextMeshProUGUI descriptionPlayer;
 
+    [Header("Panel Verify")]
+    [SerializeField] internal GameObject panelVerifySelectionPlayer;
+    [SerializeField] internal Image spritePlayerPanelVerify;
+    [SerializeField] internal TextMeshProUGUI namePlayerPanelVerify;
+
     private void Awake()
     {
         textStart.fontSizeMax = 35;
@@ -35,7 +40,12 @@ public class ManagerSceneSelectionPlayer : MonoBehaviour
             iconPlayer.sprite = sOInfoPlayer[index].iconPlayer;
             namePlayer.text = sOInfoPlayer[index].namePlayer;
             descriptionPlayer.text = sOInfoPlayer[index].descriptionPlayer;
+
+            spritePlayerPanelVerify.sprite = iconPlayer.sprite;
+            namePlayerPanelVerify.text = namePlayer.text;
+            panelVerifySelectionPlayer.SetActive(false);
         }
+
         GameManager.instance.sOGameManager.playerInstance = GameManager.instance.sOGameManager.playerContent[index];
     }
 
