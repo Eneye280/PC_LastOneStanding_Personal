@@ -1,5 +1,9 @@
 sceneSetups:
-- path: Assets/Last One Standing/Scenes/SceneLobby.unity
+- path: Assets/Last One Standing/Scenes/Level #/SceneGameAlone.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
+- path: Assets/Last One Standing/Scenes/SceneUIGame.unity
+  isLoaded: 1
+  isActive: 0
   isSubScene: 0
