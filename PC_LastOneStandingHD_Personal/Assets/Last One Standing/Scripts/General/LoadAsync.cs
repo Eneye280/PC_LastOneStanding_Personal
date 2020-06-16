@@ -11,13 +11,17 @@ public class LoadAsync : MonoBehaviour
     private AsyncOperation asyncOperation;
 
     [SerializeField] internal bool isLoadStart;
-    internal string nameSceneForLoad;
     [SerializeField] internal bool isPanelBackgroundImage;
+    [SerializeField] internal GameObject canvasLoadAsyn;
 
     [Header("Parameter's Progress")]
-    [SerializeField] internal Image sliderLoadAsyn;
+    [SerializeField] internal Slider sliderLoadAsyn;
     [Range(-100, 100)] 
     [SerializeField] internal float howMuchIsTheProgress;
+    [Range(0, 50)]
+    [SerializeField] internal float numberMultiplicateLoadAsyn;
+
+    [Space(15)]
     [SerializeField] internal string nameTextProgress;
     [SerializeField] internal TextMeshProUGUI textInProgress;
     [SerializeField] internal TextMeshProUGUI textPhrasesRandom;
@@ -45,23 +49,20 @@ public class LoadAsync : MonoBehaviour
 
         if (GameManager.instance.sOGameManager.isSceneSelectionPlayer)
         {
-            nameSceneForLoad = "SceneSelecctionCharacter";
             if (isLoadStart)
-                StartCoroutine(LoadScene(nameSceneForLoad));
+                StartCoroutine(LoadScene("SceneSelectionPlayer"));
 
-            GameManager.instance.sOGameManager.isSceneSelectionPlayer = false;
             GameManager.instance.modeGame = ModeGame.selectionPlayer;
+            canvasLoadAsyn.SetActive(false);
         }
         else if (!GameManager.instance.sOGameManager.isSceneSelectionPlayer)
         {
-            nameSceneForLoad = "SceneLobby";
             if (isLoadStart)
-                StartCoroutine(LoadScene(nameSceneForLoad));
+                StartCoroutine(LoadScene("SceneLobby"));
 
             GameManager.instance.modeGame = ModeGame.lobby;
+            canvasLoadAsyn.SetActive(false);
         }
-
-
     }
     public void LoadButton(string scene)
     {
@@ -78,13 +79,13 @@ public class LoadAsync : MonoBehaviour
 
         while (!asyncOperation.isDone)
         {
-            if(isPanelBackgroundImage)
+            if (isPanelBackgroundImage)
                 panelLoadAsync.SetActive(true);
-  
-            textInProgress.text = asyncOperation.progress * (int)howMuchIsTheProgress + "%" ;
-            sliderLoadAsyn.fillAmount = asyncOperation.progress;
+
+            textInProgress.text = asyncOperation.progress * (int)howMuchIsTheProgress + "%";
+            sliderLoadAsyn.value = asyncOperation.progress;
             asyncOperation.allowSceneActivation = true;
             yield return null;
-        }
+        } 
     }
 }

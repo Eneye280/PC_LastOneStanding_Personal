@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class ManagerSceneSelectionPlayer : MonoBehaviour
 {
     [SerializeField] private GameObject[] players;
-    [SerializeField] internal SOInfoPlayerUI[] sOInfoPlayer;
+    [SerializeField] internal SOSceneSelectionPlayer[] sOInfoPlayer;
     [Space(15)]
     [SerializeField] internal TextMeshProUGUI textStart;
     [Space(15)]
