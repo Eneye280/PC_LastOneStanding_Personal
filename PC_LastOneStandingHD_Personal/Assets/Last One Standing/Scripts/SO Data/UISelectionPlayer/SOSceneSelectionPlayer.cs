@@ -9,6 +9,8 @@ public class SOSceneSelectionPlayer : ScriptableObject
     [TextArea(0,500)]
     [SerializeField] internal string descriptionPlayer;
     [Space(20)]
-    [SerializeField] internal string habilityPlayer;
+    [SerializeField] internal Sprite abilityOne;
+    [SerializeField] internal Sprite abilityTwo;
+
 }
 

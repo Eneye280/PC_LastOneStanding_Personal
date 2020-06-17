@@ -11,8 +11,11 @@ public class ManagerSceneSelectionPlayer : MonoBehaviour
     [SerializeField] internal TextMeshProUGUI textStart;
     [Space(15)]
     [SerializeField] internal Image iconPlayer;
+    [SerializeField] internal Image abilityOne;
+    [SerializeField] internal Image abilityTwo;
     [SerializeField] internal TextMeshProUGUI namePlayer;
     [SerializeField] internal TextMeshProUGUI descriptionPlayer;
+    [SerializeField] internal TextMeshProUGUI infoHability;
 
     [Header("Panel Verify")]
     [SerializeField] internal GameObject panelVerifySelectionPlayer;
@@ -40,6 +43,8 @@ public class ManagerSceneSelectionPlayer : MonoBehaviour
             iconPlayer.sprite = sOInfoPlayer[index].iconPlayer;
             namePlayer.text = sOInfoPlayer[index].namePlayer;
             descriptionPlayer.text = sOInfoPlayer[index].descriptionPlayer;
+            abilityOne.sprite = sOInfoPlayer[index].abilityOne;
+            abilityTwo.sprite = sOInfoPlayer[index].abilityTwo;
 
             spritePlayerPanelVerify.sprite = iconPlayer.sprite;
             namePlayerPanelVerify.text = namePlayer.text;
@@ -50,15 +55,12 @@ public class ManagerSceneSelectionPlayer : MonoBehaviour
     }
 
     //Button Start Game
-    public void StartGame(int index)
+    public void StartGame()
     {
         GameManager.instance.modeGame = ModeGame.lobby;
         SceneManager.LoadScene("SceneLobby");
 
         GameManager.instance.InstancePlayer();
         GameManager.instance.sOGameManager.isSceneSelectionPlayer = false;
-        
     }
-   
-        
 }

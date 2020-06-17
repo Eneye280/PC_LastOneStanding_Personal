@@ -19,4 +19,9 @@ MonoBehaviour:
     distantly related to other groups of arthropods, such as insects, with which
     they should not be confused. The Araneae order is the seventh in total diversity
     of species with respect to the rest of the diversity of organisms.\r"
-  habilityPlayer: 
+  abilityOne: {fileID: -6163653743320474377, guid: fc0bfeaf7db5d2a4babeb84ffced5e50,
+    type: 3}
+  nameAbilityPlayerOne: Multiple Spider
+  abilityTwo: {fileID: -1165019501850459010, guid: fc0bfeaf7db5d2a4babeb84ffced5e50,
+    type: 3}
+  nameAbilityPlayerTwo: Poison

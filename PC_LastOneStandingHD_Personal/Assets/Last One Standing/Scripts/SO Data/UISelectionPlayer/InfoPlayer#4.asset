@@ -18,7 +18,8 @@ MonoBehaviour:
   descriptionPlayer: "Orc is the deformation of a term, derived from Old English,
     which referred to numerous monsters in Celtic mythology. The existence of these
     creatures was invented to explain the events of blood and assaults that occurred
-    in the fields and forests. In Spanish the word has evolved as \xABogre\xBB. In
-    Roman mythology the word Orcus (\"Orc\") is synonymous with the underworld and
-    is sometimes also the name of a giant son of the god Pluto. The Castilian word
-    derived from the Latin is Huerco.\r\n"
+    in the fields and forests. In Spanish the word has evolved as \xABogre\xBB. "
+  abilityOne: {fileID: 9221256541363539588, guid: fc0bfeaf7db5d2a4babeb84ffced5e50,
+    type: 3}
+  abilityTwo: {fileID: -7580398175154220174, guid: fc0bfeaf7db5d2a4babeb84ffced5e50,
+    type: 3}

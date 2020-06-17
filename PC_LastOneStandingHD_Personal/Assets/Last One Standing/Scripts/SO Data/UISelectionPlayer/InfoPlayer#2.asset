@@ -15,10 +15,12 @@ MonoBehaviour:
   iconPlayer: {fileID: 8575424839386723626, guid: 42a4f5ad952b20f448f0e63e15fbee85,
     type: 3}
   namePlayer: "Pira\xF1a"
-  descriptionPlayer: "Several species of fish with voracious carnivorous habits (occasionally
+  descriptionPlayer: 'Several species of fish with voracious carnivorous habits (occasionally
     or in their juvenile stages also omnivores) 1 that live in the rivers of warm-warm
     and warm waters of South America are commonly called piranhas. The denomination
     includes some genera within the Serrasalminae subfamily, which also contains
-    typical herbivorous and omnivorous fish genera. Piranhas measure between 15 and
-    25 cm in length, although examples have been found that exceed 34 cm. Meaning
-    of the word piranha\r"
+    typical herbivorous and omnivorous fish genera. '
+  abilityOne: {fileID: -3834708028298228759, guid: fc0bfeaf7db5d2a4babeb84ffced5e50,
+    type: 3}
+  abilityTwo: {fileID: -8504369937365163346, guid: fc0bfeaf7db5d2a4babeb84ffced5e50,
+    type: 3}

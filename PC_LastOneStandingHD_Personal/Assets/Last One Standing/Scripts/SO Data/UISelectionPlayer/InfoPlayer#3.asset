@@ -15,11 +15,12 @@ MonoBehaviour:
   iconPlayer: {fileID: -5683042839300265173, guid: 42a4f5ad952b20f448f0e63e15fbee85,
     type: 3}
   namePlayer: Sapo
-  descriptionPlayer: "Toads (Bufonidae) are a family of the order Anura, a class
+  descriptionPlayer: 'Toads (Bufonidae) are a family of the order Anura, a class
     of known amphibians. Many of their species are known by the common name of toads;
     however, numerous species belonging to other families are also commonly called
     toads. This is so because the characteristics that are popularly used to distinguish
-    frogs from toads are not the same as those used in scientific classification.
-    According to popular culture, they differ in that frogs have smooth and moist
-    skin, while toads have rough and dry skin and are more walkers than jumpers,
-    hence their legs are shorter.\r"
+    frogs from toads are not the same as those used in scientific classification. '
+  abilityOne: {fileID: -5376628542519945689, guid: fc0bfeaf7db5d2a4babeb84ffced5e50,
+    type: 3}
+  abilityTwo: {fileID: -3742047381369364281, guid: fc0bfeaf7db5d2a4babeb84ffced5e50,
+    type: 3}
