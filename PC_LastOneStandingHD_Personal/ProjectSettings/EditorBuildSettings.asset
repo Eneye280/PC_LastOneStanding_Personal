@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/Last One Standing/Scenes/Level #/SceneGameAlone.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 1
-    path: Assets/Last One Standing/Scenes/SceneUIGame.unity
+    path: Assets/Last One Standing/Scenes/Additive/SceneUIGame.unity
     guid: eaa16974a4038db4d8017dfc17548302
   m_configObjects: {}
