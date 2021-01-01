@@ -3,16 +3,29 @@ using UnityEngine.UI;
 
 public class EnableDisableObjectsUI : MonoBehaviour
 {
+    [Header("VERIFY DOUBLE SELECTION")]
     [SerializeField] internal bool isDoubleVerifycation;
     [SerializeField] internal int count;
     [SerializeField] internal EnableDisableObjectsUI[] otherDisableVerification;
-    
-    [Space(15)]
-    [SerializeField] internal GameObject[] objectEnableDisable;
-    [SerializeField] internal Image[] iconChangeColor;
+
+    [Header("OBJECTS ENABLE AND DISABLE")]
+    [SerializeField] internal GameObject[] objectEnable;
+    [SerializeField] internal GameObject[] objectDisable;
+
+    [Header("ICON CHANGE COLOR")]
+    [SerializeField] internal Image[] iconColorChangeToOrange;
+    [SerializeField] internal Image[] iconColorChangeToWhite;
+
+    [Header("COLOR BUTTON'S")]
     [SerializeField] internal Color[] colorIcon;
 
-    public void AddFuctionOnOff(int index)
+    [Header("FUNCTIONS ADDITIONAL")]
+    [SerializeField] internal bool isFunctionAdttional;
+    [SerializeField] internal GameObject[] objectEnableAdditional;
+    [SerializeField] internal Image[] iconColorChangeToOrangeAdditional;
+    [SerializeField] internal EnableDisableObjectsUI[] otherDisableVerificationAdditional;
+
+    public void AddFuctionOnOff()
     {
         if (isDoubleVerifycation)
         {
@@ -25,24 +38,45 @@ public class EnableDisableObjectsUI : MonoBehaviour
 
             if (count == 1)
             {
-                for (int i = 0; i < objectEnableDisable.Length; i++)
+                for (int i = 0; i < objectEnable.Length; i++)
                 {
-                    objectEnableDisable[index].SetActive(true);
-                    objectEnableDisable[i].SetActive(false);
-
-                    iconChangeColor[index].color = colorIcon[0];
-                    iconChangeColor[i].color = colorIcon[1];
+                    objectEnable[i].SetActive(true);
+                }
+                for (int i = 0; i < iconColorChangeToOrange.Length; i++)
+                {
+                    iconColorChangeToOrange[i].color = colorIcon[0];
+                }
+                for (int i = 0; i < iconColorChangeToWhite.Length; i++)
+                {
+                    iconColorChangeToWhite[i].color = colorIcon[1];
+                }
+                for (int i = 0; i < objectDisable.Length; i++)
+                {
+                    objectDisable[i].SetActive(false);
                 }
             }
             if (count == 2)
             {
-                for (int i = 0; i < objectEnableDisable.Length; i++)
+                for (int i = 0; i < objectEnable.Length; i++)
                 {
-                    objectEnableDisable[index].SetActive(false);
-                    objectEnableDisable[i].SetActive(false);
+                    objectEnable[i].SetActive(false);
+                    iconColorChangeToOrange[i].color = colorIcon[1];
 
-                    iconChangeColor[index].color = colorIcon[1];
-                    iconChangeColor[i].color = colorIcon[1];
+                    if (isFunctionAdttional)
+                    {
+                        for (int j = 0; j < objectEnableAdditional.Length; j++)
+                        {
+                            objectEnableAdditional[j].SetActive(true);
+                        }
+                        for (int l = 0; l < iconColorChangeToOrangeAdditional.Length; l++)
+                        {
+                            iconColorChangeToOrangeAdditional[l].color = colorIcon[0];
+                        }
+                        for (int y = 0; y < otherDisableVerificationAdditional.Length; y++)
+                        {
+                            otherDisableVerificationAdditional[y].count = 1;
+                        }
+                    }
 
                     count = 0;
                 }
@@ -50,16 +84,25 @@ public class EnableDisableObjectsUI : MonoBehaviour
         }
         else
         {
-            for (int i = 0; i < objectEnableDisable.Length; i++)
+            for (int i = 0; i < objectEnable.Length; i++)
             {
-                objectEnableDisable[index].SetActive(true);
-                objectEnableDisable[i].SetActive(false);
-
-                iconChangeColor[index].color = colorIcon[0];
-                iconChangeColor[i].color = colorIcon[1];
+                objectEnable[i].SetActive(true);
+            }
+            for (int i = 0; i < iconColorChangeToOrange.Length; i++)
+            {
+                iconColorChangeToOrange[i].color = colorIcon[0];
+            }
+            for (int i = 0; i < iconColorChangeToWhite.Length; i++)
+            {
+                iconColorChangeToWhite[i].color = colorIcon[1];
+            }
+            for (int i = 0; i < objectDisable.Length; i++)
+            {
+                objectDisable[i].SetActive(false);
             }
         }
- 
-        
+
+
+
     }
 }
