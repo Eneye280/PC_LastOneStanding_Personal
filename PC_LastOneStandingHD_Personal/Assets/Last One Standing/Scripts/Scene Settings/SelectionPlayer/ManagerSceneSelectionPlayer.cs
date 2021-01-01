@@ -7,54 +7,53 @@ public class ManagerSceneSelectionPlayer : MonoBehaviour
 {
     [SerializeField] private GameObject[] players;
     [SerializeField] internal SOSceneSelectionPlayer[] sOInfoPlayer;
+    
     [Space(15)]
-    [SerializeField] internal TextMeshProUGUI textStart;
-    [Space(15)]
-    [SerializeField] internal Image iconPlayer;
-    [SerializeField] internal Image abilityOne;
-    [SerializeField] internal Image abilityTwo;
     [SerializeField] internal TextMeshProUGUI namePlayer;
     [SerializeField] internal TextMeshProUGUI descriptionPlayer;
-    [SerializeField] internal TextMeshProUGUI infoHability;
+    [SerializeField] internal TextMeshProUGUI infoSkill;
 
-    [Header("Panel Verify")]
-    [SerializeField] internal GameObject panelVerifySelectionPlayer;
-    [SerializeField] internal Image spritePlayerPanelVerify;
-    [SerializeField] internal TextMeshProUGUI namePlayerPanelVerify;
+    [Space(15)]
+    [SerializeField] internal Image skillSpecial;
+    [SerializeField] internal Image skillOne;
+    [SerializeField] internal Image skillTwo;
 
-    private void Awake()
-    {
-        textStart.fontSizeMax = 35;
-        textStart.text = "Selection Player";
-    }
-
-    //Button Left Selection Player
+    private int refIndex;
     public void EnablePlayer(int index)
     {
+        refIndex = index;
         GameManager.instance.sOGameManager.indexPlayer = index;
-        textStart.fontSizeMax = 50;
-        textStart.text = "Start";
 
         for (int i = 0; i < players.Length; i++)
         {
             players[index].SetActive(true);
             players[i].SetActive(false);
 
-            iconPlayer.sprite = sOInfoPlayer[index].iconPlayer;
             namePlayer.text = sOInfoPlayer[index].namePlayer;
             descriptionPlayer.text = sOInfoPlayer[index].descriptionPlayer;
-            abilityOne.sprite = sOInfoPlayer[index].abilityOne;
-            abilityTwo.sprite = sOInfoPlayer[index].abilityTwo;
 
-            spritePlayerPanelVerify.sprite = iconPlayer.sprite;
-            namePlayerPanelVerify.text = namePlayer.text;
-            panelVerifySelectionPlayer.SetActive(false);
+            skillSpecial.sprite = sOInfoPlayer[index].skillSpecial;
+            skillOne.sprite = sOInfoPlayer[index].skillOne;
+            skillTwo.sprite = sOInfoPlayer[index].skillTwo;
         }
 
         GameManager.instance.sOGameManager.playerInstance = GameManager.instance.sOGameManager.playerContent[index];
+        GameManager.instance.sOGameManager.sOSceneSelectionPlayer = sOInfoPlayer[index];
     }
 
-    //Button Start Game
+    public void DescriptionSkill(int index)
+    {
+        if(sOInfoPlayer[refIndex].isDamageSkillSpecial)
+        {
+            infoSkill.text = sOInfoPlayer[refIndex].infoSkill[index] + "\n" + "\n" + "<b>Damage:</b> " + sOInfoPlayer[refIndex].damageSkill[index];
+        }
+        else if (!sOInfoPlayer[refIndex].isDamageSkillSpecial)
+        {
+            infoSkill.text = sOInfoPlayer[refIndex].infoSkill[index] + "\n" + "\n" + sOInfoPlayer[refIndex].damageSkill[index];
+        }
+
+    }
+
     public void StartGame()
     {
         GameManager.instance.modeGame = ModeGame.lobby;

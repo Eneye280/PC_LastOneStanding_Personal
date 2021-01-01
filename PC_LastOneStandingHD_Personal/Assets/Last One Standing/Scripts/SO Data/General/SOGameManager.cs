@@ -9,4 +9,6 @@ public class SOGameManager : ScriptableObject
     [Space(10)]
     [SerializeField] internal GameObject[] playerContent;
     [SerializeField] internal GameObject playerInstance;
+
+    [SerializeField] internal SOSceneSelectionPlayer sOSceneSelectionPlayer;
 }

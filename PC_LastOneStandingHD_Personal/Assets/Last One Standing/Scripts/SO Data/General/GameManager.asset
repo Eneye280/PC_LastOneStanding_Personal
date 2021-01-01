@@ -21,3 +21,5 @@ MonoBehaviour:
   - {fileID: 3772116142533466241, guid: bef8a3356379da74289f4f8ba60b1771, type: 3}
   playerInstance: {fileID: 2852237806007541259, guid: f0e60e99be76ec24c96a6a12b01b928e,
     type: 3}
+  sOSceneSelectionPlayer: {fileID: 11400000, guid: d01ae30d6b15e7746b1a2656e62c7004,
+    type: 2}

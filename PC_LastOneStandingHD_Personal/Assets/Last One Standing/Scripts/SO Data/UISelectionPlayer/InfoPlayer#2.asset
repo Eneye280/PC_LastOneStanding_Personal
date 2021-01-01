@@ -12,15 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b043d9b410f954438bfa1832dca60cb, type: 3}
   m_Name: InfoPlayer#2
   m_EditorClassIdentifier: 
-  iconPlayer: {fileID: 8575424839386723626, guid: 42a4f5ad952b20f448f0e63e15fbee85,
-    type: 3}
   namePlayer: "Pira\xF1a"
   descriptionPlayer: 'Several species of fish with voracious carnivorous habits (occasionally
     or in their juvenile stages also omnivores) 1 that live in the rivers of warm-warm
     and warm waters of South America are commonly called piranhas. The denomination
     includes some genera within the Serrasalminae subfamily, which also contains
     typical herbivorous and omnivorous fish genera. '
-  abilityOne: {fileID: -3834708028298228759, guid: fc0bfeaf7db5d2a4babeb84ffced5e50,
-    type: 3}
-  abilityTwo: {fileID: -8504369937365163346, guid: fc0bfeaf7db5d2a4babeb84ffced5e50,
-    type: 3}
+  skillSpecial: {fileID: 21300000, guid: 6d9d2dea3c026d24abb86b7ab3e2ec01, type: 3}
+  skillOne: {fileID: 21300000, guid: 260d8c5d34093a647b4fff05df33914c, type: 3}
+  skillTwo: {fileID: 21300000, guid: 202eb3d3a9c71404abb57205bc6c7a53, type: 3}
+  infoSkill:
+  - Un enorme pie que desbarata lo que toque, puede ser un gran aliado en momentos
+    dificiles
+  - Tres grandes ondas salen del personaje como rafagas
+  - "Flechas incendiarias que causan da\xF1o mientras esten encendidas"
+  isDamageSkillSpecial: 1
+  damageSkill:
+  - +50
+  - +15
+  - +40
