@@ -12,11 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b043d9b410f954438bfa1832dca60cb, type: 3}
   m_Name: InfoPlayer#1
   m_EditorClassIdentifier: 
-  iconPlayer: {fileID: 8815559525895858133, guid: 42a4f5ad952b20f448f0e63e15fbee85,
-    type: 3}
   namePlayer: Arachnid War
   descriptionPlayer: "Spiders are the most numerous order of the Arachnida class,
     distantly related to other groups of arthropods, such as insects, with which
     they should not be confused. The Araneae order is the seventh in total diversity
     of species with respect to the rest of the diversity of organisms.\r"
-  habilityPlayer: 
+  skillSpecial: {fileID: 21300000, guid: 79acd8a805130f140b713a6f3e32257c, type: 3}
+  skillOne: {fileID: 21300000, guid: 936840c6817abf44f971119d179cca09, type: 3}
+  skillTwo: {fileID: 21300000, guid: c13e34f8b5169b44e981198524491381, type: 3}
+  infoSkill:
+  - Escudo impenetrable ante cualquier ataque de los enemigos
+  - "Flechas venenosas que causan un da\xF1o colosial en un area determinada"
+  - "La telara\xF1a es un arma secreta de este personaje, ya que tiene la posibilidad
+    de atrapar a sus presas y no soltarlas"
+  isDamageSkillSpecial: 1
+  damageSkill:
+  - 
+  - +15
+  - +40

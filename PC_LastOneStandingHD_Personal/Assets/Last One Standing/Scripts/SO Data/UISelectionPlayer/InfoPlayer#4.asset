@@ -12,13 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b043d9b410f954438bfa1832dca60cb, type: 3}
   m_Name: InfoPlayer#4
   m_EditorClassIdentifier: 
-  iconPlayer: {fileID: 6455580531783002942, guid: 42a4f5ad952b20f448f0e63e15fbee85,
-    type: 3}
   namePlayer: Orco
   descriptionPlayer: "Orc is the deformation of a term, derived from Old English,
     which referred to numerous monsters in Celtic mythology. The existence of these
     creatures was invented to explain the events of blood and assaults that occurred
-    in the fields and forests. In Spanish the word has evolved as \xABogre\xBB. In
-    Roman mythology the word Orcus (\"Orc\") is synonymous with the underworld and
-    is sometimes also the name of a giant son of the god Pluto. The Castilian word
-    derived from the Latin is Huerco.\r\n"
+    in the fields and forests. In Spanish the word has evolved as \xABogre\xBB. "
+  skillSpecial: {fileID: 21300000, guid: b03eb16c4cb23994cab7224a8aca3d2c, type: 3}
+  skillOne: {fileID: 21300000, guid: 28cb68587c575d14c9ad5ec7e334f9ca, type: 3}
+  skillTwo: {fileID: 21300000, guid: 811137f72b652ec4e8f1345cf5422dcf, type: 3}
+  infoSkill:
+  - b
+  - b
+  - b
+  isDamageSkillSpecial: 1
+  damageSkill:
+  - +50
+  - +15
+  - +40

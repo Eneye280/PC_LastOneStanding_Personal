@@ -6,49 +6,60 @@ using UnityEngine.SceneManagement;
 public class ManagerSceneSelectionPlayer : MonoBehaviour
 {
     [SerializeField] private GameObject[] players;
-    [SerializeField] internal SOInfoPlayerUI[] sOInfoPlayer;
+    [SerializeField] internal SOSceneSelectionPlayer[] sOInfoPlayer;
+    
     [Space(15)]
-    [SerializeField] internal TextMeshProUGUI textStart;
-    [Space(15)]
-    [SerializeField] internal Image iconPlayer;
     [SerializeField] internal TextMeshProUGUI namePlayer;
     [SerializeField] internal TextMeshProUGUI descriptionPlayer;
+    [SerializeField] internal TextMeshProUGUI infoSkill;
 
-    private void Awake()
-    {
-        textStart.fontSizeMax = 35;
-        textStart.text = "Selection Player";
-    }
+    [Space(15)]
+    [SerializeField] internal Image skillSpecial;
+    [SerializeField] internal Image skillOne;
+    [SerializeField] internal Image skillTwo;
 
-    //Button Left Selection Player
+    private int refIndex;
     public void EnablePlayer(int index)
     {
+        refIndex = index;
         GameManager.instance.sOGameManager.indexPlayer = index;
-        textStart.fontSizeMax = 50;
-        textStart.text = "Start";
 
         for (int i = 0; i < players.Length; i++)
         {
             players[index].SetActive(true);
             players[i].SetActive(false);
 
-            iconPlayer.sprite = sOInfoPlayer[index].iconPlayer;
             namePlayer.text = sOInfoPlayer[index].namePlayer;
             descriptionPlayer.text = sOInfoPlayer[index].descriptionPlayer;
+
+            skillSpecial.sprite = sOInfoPlayer[index].skillSpecial;
+            skillOne.sprite = sOInfoPlayer[index].skillOne;
+            skillTwo.sprite = sOInfoPlayer[index].skillTwo;
         }
+
         GameManager.instance.sOGameManager.playerInstance = GameManager.instance.sOGameManager.playerContent[index];
+        GameManager.instance.sOGameManager.sOSceneSelectionPlayer = sOInfoPlayer[index];
     }
 
-    //Button Start Game
-    public void StartGame(int index)
+    public void DescriptionSkill(int index)
+    {
+        if(sOInfoPlayer[refIndex].isDamageSkillSpecial)
+        {
+            infoSkill.text = sOInfoPlayer[refIndex].infoSkill[index] + "\n" + "\n" + "<b>Damage:</b> " + sOInfoPlayer[refIndex].damageSkill[index];
+        }
+        else if (!sOInfoPlayer[refIndex].isDamageSkillSpecial)
+        {
+            infoSkill.text = sOInfoPlayer[refIndex].infoSkill[index] + "\n" + "\n" + sOInfoPlayer[refIndex].damageSkill[index];
+        }
+
+    }
+
+    public void StartGame()
     {
         GameManager.instance.modeGame = ModeGame.lobby;
         SceneManager.LoadScene("SceneLobby");
 
         GameManager.instance.InstancePlayer();
         GameManager.instance.sOGameManager.isSceneSelectionPlayer = false;
-        
     }
-   
-        
 }

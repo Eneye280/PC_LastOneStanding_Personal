@@ -12,14 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b043d9b410f954438bfa1832dca60cb, type: 3}
   m_Name: InfoPlayer#3
   m_EditorClassIdentifier: 
-  iconPlayer: {fileID: -5683042839300265173, guid: 42a4f5ad952b20f448f0e63e15fbee85,
-    type: 3}
   namePlayer: Sapo
-  descriptionPlayer: "Toads (Bufonidae) are a family of the order Anura, a class
+  descriptionPlayer: 'Toads (Bufonidae) are a family of the order Anura, a class
     of known amphibians. Many of their species are known by the common name of toads;
     however, numerous species belonging to other families are also commonly called
     toads. This is so because the characteristics that are popularly used to distinguish
-    frogs from toads are not the same as those used in scientific classification.
-    According to popular culture, they differ in that frogs have smooth and moist
-    skin, while toads have rough and dry skin and are more walkers than jumpers,
-    hence their legs are shorter.\r"
+    frogs from toads are not the same as those used in scientific classification. '
+  skillSpecial: {fileID: 21300000, guid: d34a2c4511862bc459048cf35be6d84f, type: 3}
+  skillOne: {fileID: 21300000, guid: 38c3ada3f093d7d46bcdafbd2cd77879, type: 3}
+  skillTwo: {fileID: 21300000, guid: f47aa78cb909bfd42baf5d618a2d0e8e, type: 3}
+  infoSkill:
+  - a
+  - a
+  - a
+  isDamageSkillSpecial: 0
+  damageSkill:
+  - 
+  - +15
+  - +40

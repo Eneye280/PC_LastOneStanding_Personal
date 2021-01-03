@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Assets/Last One Standing/Scripts/@Input/InputPlayerActions.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Assets/Last One Standing/Scripts/Player/@Input/InputPlayerActions.inputactions'
 
 using System;
 using System.Collections;
