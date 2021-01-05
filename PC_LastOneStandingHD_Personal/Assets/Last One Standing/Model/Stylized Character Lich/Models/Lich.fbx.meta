@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 8424df28c23049442b4797ce5254eb87
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: lich_forearml
+    100004: lich_forearmr
+    100006: lich_handl
+    100008: lich_handr
+    100010: lich_head
+    100012: lich_indexl_lower
+    100014: lich_indexl_upper
+    100016: lich_indexr_lower
+    100018: lich_indexr_upper
+    100020: lich_jaw
+    100022: Lich_mesh
+    100024: lich_middlel_lower
+    100026: lich_middlel_upper
+    100028: lich_middler_lower
+    100030: lich_middler_upper
+    100032: lich_origin
+    100034: lich_pelvis
+    100036: lich_pinkyl_lower
+    100038: lich_pinkyl_upper
+    100040: lich_pinkyr_lower
+    100042: lich_pinkyr_upper
+    100044: lich_ribbonl01
+    100046: lich_ribbonl02
+    100048: lich_ribbonl03
+    100050: lich_ribbonl04
+    100052: lich_ribbonl05
+    100054: lich_ribbonl06
+    100056: lich_ribbonl07
+    100058: lich_ribbonr01
+    100060: lich_ribbonr02
+    100062: lich_ribbonr03
+    100064: lich_ribbonr04
+    100066: lich_ribbonr05
+    100068: lich_ribbonr06
+    100070: lich_ribbonr07
+    100072: lich_ringl_lower
+    100074: lich_ringl_upper
+    100076: lich_ringr_lower
+    100078: lich_ringr_upper
+    100080: lich_robe_low
+    100082: lich_robe_mid
+    100084: lich_robe_mid01
+    100086: lich_robe_upper
+    100088: lich_root
+    100090: lich_shoulderl
+    100092: lich_shoulderpadl
+    100094: lich_shoulderpadr
+    100096: lich_shoulderr
+    100098: lich_spine_low
+    100100: lich_spine_mid
+    100102: lich_spine_upper
+    100104: lich_tabard01
+    100106: lich_tabard02
+    100108: lich_tabard03
+    100110: lich_tabard04
+    100112: lich_thumbl_lower
+    100114: lich_thumbl_upper
+    100116: lich_thumbr_lower
+    100118: lich_thumbr_upper
+    400000: //RootNode
+    400002: lich_forearml
+    400004: lich_forearmr
+    400006: lich_handl
+    400008: lich_handr
+    400010: lich_head
+    400012: lich_indexl_lower
+    400014: lich_indexl_upper
+    400016: lich_indexr_lower
+    400018: lich_indexr_upper
+    400020: lich_jaw
+    400022: Lich_mesh
+    400024: lich_middlel_lower
+    400026: lich_middlel_upper
+    400028: lich_middler_lower
+    400030: lich_middler_upper
+    400032: lich_origin
+    400034: lich_pelvis
+    400036: lich_pinkyl_lower
+    400038: lich_pinkyl_upper
+    400040: lich_pinkyr_lower
+    400042: lich_pinkyr_upper
+    400044: lich_ribbonl01
+    400046: lich_ribbonl02
+    400048: lich_ribbonl03
+    400050: lich_ribbonl04
+    400052: lich_ribbonl05
+    400054: lich_ribbonl06
+    400056: lich_ribbonl07
+    400058: lich_ribbonr01
+    400060: lich_ribbonr02
+    400062: lich_ribbonr03
+    400064: lich_ribbonr04
+    400066: lich_ribbonr05
+    400068: lich_ribbonr06
+    400070: lich_ribbonr07
+    400072: lich_ringl_lower
+    400074: lich_ringl_upper
+    400076: lich_ringr_lower
+    400078: lich_ringr_upper
+    400080: lich_robe_low
+    400082: lich_robe_mid
+    400084: lich_robe_mid01
+    400086: lich_robe_upper
+    400088: lich_root
+    400090: lich_shoulderl
+    400092: lich_shoulderpadl
+    400094: lich_shoulderpadr
+    400096: lich_shoulderr
+    400098: lich_spine_low
+    400100: lich_spine_mid
+    400102: lich_spine_upper
+    400104: lich_tabard01
+    400106: lich_tabard02
+    400108: lich_tabard03
+    400110: lich_tabard04
+    400112: lich_thumbl_lower
+    400114: lich_thumbl_upper
+    400116: lich_thumbr_lower
+    400118: lich_thumbr_upper
+    4300000: Lich_mesh
+    7400000: attack
+    7400002: Death
+    7400004: Ready
+    7400006: hit
+    7400008: idle
+    7400010: Stun
+    7400012: walk
+    7400014: Attack01
+    7400016: SpellB_Ready
+    7400018: SpellA_Channel
+    7400020: SpellB_Channel
+    7400022: Hit01
+    7400024: SpellA_Ready
+    7400026: SpellA
+    7400028: SpellB
+    7400030: Idle01
+    7400032: Talk
+    7400034: run
+    9500000: //RootNode
+    13700000: Lich_mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LichMaterial
+    second: {fileID: 2100000, guid: 8715802f91d663d498633e8a167bf640, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
